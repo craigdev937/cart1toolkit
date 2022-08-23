@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "moduleResolution": "node",
+        "strict": true,
+        "jsx": "react-jsx",
+        "outDir": "./dist/",
+        "forceConsistentCasingInFileNames": true,
+        "isolatedModules": true,
+        "resolveJsonModule": true,
+        "module": "esnext",
+        "target": "es6",
+        "lib": ["dom", "dom.iterable", "es2022"],
+        "esModuleInterop": true,
+        "allowSyntheticDefaultImports": true
+    },
+    "exclude": ["node_modules"],
+    "include": ["./src/**/*"]
+}
+
+
+
