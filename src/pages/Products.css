@@ -1,0 +1,19 @@
+.products {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+}
+
+.products__card {
+    background: #fff;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.products__image {
+    height: 80px;
+}
+
+
+

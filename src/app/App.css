@@ -1,5 +1,7 @@
 body {
-    background-color: steelblue;
+    background-color: #b3b3b3;
+    margin: 0;
+    padding: 20px;
 }
 
 .navbar {
@@ -7,4 +9,6 @@ body {
     align-items: center;
     justify-content: space-between;
 }
+
+
 
